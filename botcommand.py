@@ -46,4 +46,4 @@ async def divide(ctx,num1:int,num2:int):
 
 
 
-botsito.run("MTI5NzMwMjQ5MTEyNTM4MzI1MA.G77OqC.-dZBi9KVo3SEBuRes69_oaI4XAkHuNSoery4rg")
+botsito.run("token")
